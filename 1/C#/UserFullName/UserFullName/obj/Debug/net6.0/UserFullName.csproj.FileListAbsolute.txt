@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/bin/Debug/net6.0/UserFullName
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/bin/Debug/net6.0/UserFullName.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/bin/Debug/net6.0/UserFullName.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/bin/Debug/net6.0/UserFullName.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/bin/Debug/net6.0/UserFullName.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/obj/Debug/net6.0/UserFullName.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/obj/Debug/net6.0/UserFullName.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/obj/Debug/net6.0/UserFullName.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/obj/Debug/net6.0/UserFullName.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/obj/Debug/net6.0/UserFullName.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/obj/Debug/net6.0/UserFullName.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/obj/Debug/net6.0/refint/UserFullName.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/obj/Debug/net6.0/UserFullName.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/obj/Debug/net6.0/UserFullName.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/obj/Debug/net6.0/ref/UserFullName.dll
