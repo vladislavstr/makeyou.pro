@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/bin/Debug/net6.0/multiplication
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/bin/Debug/net6.0/multiplication.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/bin/Debug/net6.0/multiplication.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/bin/Debug/net6.0/multiplication.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/bin/Debug/net6.0/multiplication.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/obj/Debug/net6.0/multiplication.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/obj/Debug/net6.0/multiplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/obj/Debug/net6.0/multiplication.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/obj/Debug/net6.0/multiplication.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/obj/Debug/net6.0/multiplication.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/obj/Debug/net6.0/multiplication.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/obj/Debug/net6.0/refint/multiplication.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/obj/Debug/net6.0/multiplication.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/obj/Debug/net6.0/multiplication.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/multiplication/multiplication/obj/Debug/net6.0/ref/multiplication.dll

@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/bin/Debug/net6.0/variable
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/bin/Debug/net6.0/variable.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/bin/Debug/net6.0/variable.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/bin/Debug/net6.0/variable.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/bin/Debug/net6.0/variable.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/obj/Debug/net6.0/variable.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/obj/Debug/net6.0/variable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/obj/Debug/net6.0/variable.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/obj/Debug/net6.0/variable.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/obj/Debug/net6.0/variable.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/obj/Debug/net6.0/variable.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/obj/Debug/net6.0/refint/variable.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/obj/Debug/net6.0/variable.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/obj/Debug/net6.0/variable.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/variable/variable/obj/Debug/net6.0/ref/variable.dll

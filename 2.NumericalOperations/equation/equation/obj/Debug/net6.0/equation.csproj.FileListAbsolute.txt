@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/bin/Debug/net6.0/equation
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/bin/Debug/net6.0/equation.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/bin/Debug/net6.0/equation.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/bin/Debug/net6.0/equation.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/bin/Debug/net6.0/equation.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/obj/Debug/net6.0/equation.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/obj/Debug/net6.0/equation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/obj/Debug/net6.0/equation.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/obj/Debug/net6.0/equation.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/obj/Debug/net6.0/equation.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/obj/Debug/net6.0/equation.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/obj/Debug/net6.0/refint/equation.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/obj/Debug/net6.0/equation.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/obj/Debug/net6.0/equation.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/2.NumericalOperations/equation/equation/obj/Debug/net6.0/ref/equation.dll
