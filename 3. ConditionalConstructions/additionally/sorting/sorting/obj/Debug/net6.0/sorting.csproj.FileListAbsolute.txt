@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/obj/Debug/net6.0/sorting.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/obj/Debug/net6.0/sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/obj/Debug/net6.0/sorting.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/obj/Debug/net6.0/sorting.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/obj/Debug/net6.0/sorting.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/bin/Debug/net6.0/sorting
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/bin/Debug/net6.0/sorting.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/bin/Debug/net6.0/sorting.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/bin/Debug/net6.0/sorting.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/bin/Debug/net6.0/sorting.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/obj/Debug/net6.0/sorting.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/obj/Debug/net6.0/refint/sorting.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/obj/Debug/net6.0/sorting.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/obj/Debug/net6.0/sorting.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/sorting/sorting/obj/Debug/net6.0/ref/sorting.dll

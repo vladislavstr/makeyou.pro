@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F7331600-33E3-4211-89DB-8E230F232B7F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EvenOrOdd/Program.cs">
+    <Files>
+      <File FileName="EvenOrOdd/Program.cs" Line="17" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EvenOrOdd" expanded="True">
+            <Node name="EvenOrOdd" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EvenOrOdd FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

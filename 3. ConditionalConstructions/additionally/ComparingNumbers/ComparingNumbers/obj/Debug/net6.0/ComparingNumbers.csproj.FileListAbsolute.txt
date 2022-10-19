@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/bin/Debug/net6.0/ComparingNumbers
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/bin/Debug/net6.0/ComparingNumbers.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/bin/Debug/net6.0/ComparingNumbers.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/bin/Debug/net6.0/ComparingNumbers.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/bin/Debug/net6.0/ComparingNumbers.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/obj/Debug/net6.0/ComparingNumbers.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/obj/Debug/net6.0/ComparingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/obj/Debug/net6.0/ComparingNumbers.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/obj/Debug/net6.0/ComparingNumbers.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/obj/Debug/net6.0/ComparingNumbers.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/obj/Debug/net6.0/ComparingNumbers.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/obj/Debug/net6.0/refint/ComparingNumbers.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/obj/Debug/net6.0/ComparingNumbers.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/obj/Debug/net6.0/ComparingNumbers.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/additionally/ComparingNumbers/ComparingNumbers/obj/Debug/net6.0/ref/ComparingNumbers.dll
