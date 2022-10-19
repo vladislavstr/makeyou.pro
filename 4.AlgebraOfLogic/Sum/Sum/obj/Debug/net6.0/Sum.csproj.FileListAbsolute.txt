@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/bin/Debug/net6.0/Sum
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/bin/Debug/net6.0/Sum.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/bin/Debug/net6.0/Sum.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/bin/Debug/net6.0/Sum.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/bin/Debug/net6.0/Sum.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/obj/Debug/net6.0/Sum.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/obj/Debug/net6.0/Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/obj/Debug/net6.0/Sum.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/obj/Debug/net6.0/Sum.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/obj/Debug/net6.0/Sum.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/obj/Debug/net6.0/Sum.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/obj/Debug/net6.0/refint/Sum.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/obj/Debug/net6.0/Sum.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/obj/Debug/net6.0/Sum.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Sum/Sum/obj/Debug/net6.0/ref/Sum.dll

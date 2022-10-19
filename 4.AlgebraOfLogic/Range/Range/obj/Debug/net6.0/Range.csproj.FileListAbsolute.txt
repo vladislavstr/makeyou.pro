@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/obj/Debug/net6.0/Range.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/obj/Debug/net6.0/Range.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/obj/Debug/net6.0/Range.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/obj/Debug/net6.0/Range.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/obj/Debug/net6.0/Range.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/bin/Debug/net6.0/Range
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/bin/Debug/net6.0/Range.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/bin/Debug/net6.0/Range.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/bin/Debug/net6.0/Range.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/bin/Debug/net6.0/Range.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/obj/Debug/net6.0/Range.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/obj/Debug/net6.0/refint/Range.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/obj/Debug/net6.0/Range.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/obj/Debug/net6.0/Range.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/4.AlgebraOfLogic/Range/Range/obj/Debug/net6.0/ref/Range.dll
