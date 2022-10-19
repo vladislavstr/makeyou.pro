@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/UserFullName.csproj": {}
+    "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1.StringOperations/C#/UserFullName/UserFullName/UserFullName.csproj": {}
   },
   "projects": {
-    "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/UserFullName.csproj": {
+    "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1.StringOperations/C#/UserFullName/UserFullName/UserFullName.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/UserFullName.csproj",
+        "projectUniqueName": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1.StringOperations/C#/UserFullName/UserFullName/UserFullName.csproj",
         "projectName": "UserFullName",
-        "projectPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/UserFullName.csproj",
+        "projectPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1.StringOperations/C#/UserFullName/UserFullName/UserFullName.csproj",
         "packagesPath": "/Users/vladislavstrelnikov/.nuget/packages/",
-        "outputPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1/C#/UserFullName/UserFullName/obj/",
+        "outputPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/1.StringOperations/C#/UserFullName/UserFullName/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vladislavstrelnikov/.nuget/NuGet/NuGet.Config"

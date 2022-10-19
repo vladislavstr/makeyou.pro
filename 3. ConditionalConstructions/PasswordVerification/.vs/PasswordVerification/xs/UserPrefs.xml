@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2238365E-38A5-4FD7-8062-E26091B3D0F1}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PasswordVerification/Program.cs">
+    <Files>
+      <File FileName="PasswordVerification/Program.cs" Line="5" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PasswordVerification" expanded="True">
+            <Node name="PasswordVerification" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PasswordVerification PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

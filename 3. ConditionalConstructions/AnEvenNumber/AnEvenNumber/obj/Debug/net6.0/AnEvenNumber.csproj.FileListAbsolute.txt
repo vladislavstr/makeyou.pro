@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/bin/Debug/net6.0/AnEvenNumber
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/bin/Debug/net6.0/AnEvenNumber.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/bin/Debug/net6.0/AnEvenNumber.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/bin/Debug/net6.0/AnEvenNumber.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/bin/Debug/net6.0/AnEvenNumber.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/obj/Debug/net6.0/AnEvenNumber.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/obj/Debug/net6.0/AnEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/obj/Debug/net6.0/AnEvenNumber.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/obj/Debug/net6.0/AnEvenNumber.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/obj/Debug/net6.0/AnEvenNumber.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/obj/Debug/net6.0/AnEvenNumber.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/obj/Debug/net6.0/refint/AnEvenNumber.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/obj/Debug/net6.0/AnEvenNumber.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/obj/Debug/net6.0/AnEvenNumber.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/AnEvenNumber/AnEvenNumber/obj/Debug/net6.0/ref/AnEvenNumber.dll

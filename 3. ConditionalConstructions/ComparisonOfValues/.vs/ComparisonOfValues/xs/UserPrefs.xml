@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DE9AA893-6C62-4C00-8E97-B60EDE7A49FC}|Default">
+  <MonoDevelop.Ide.ItemProperties.ComparisonOfValues PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ComparisonOfValues/Program.cs">
+    <Files>
+      <File FileName="ComparisonOfValues/Program.cs" Line="29" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ComparisonOfValues" expanded="True">
+            <Node name="ComparisonOfValues" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

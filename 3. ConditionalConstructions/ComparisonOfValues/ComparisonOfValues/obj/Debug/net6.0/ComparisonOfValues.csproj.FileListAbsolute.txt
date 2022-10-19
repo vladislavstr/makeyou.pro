@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/bin/Debug/net6.0/ComparisonOfValues
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/bin/Debug/net6.0/ComparisonOfValues.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/bin/Debug/net6.0/ComparisonOfValues.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/bin/Debug/net6.0/ComparisonOfValues.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/bin/Debug/net6.0/ComparisonOfValues.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/obj/Debug/net6.0/ComparisonOfValues.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/obj/Debug/net6.0/ComparisonOfValues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/obj/Debug/net6.0/ComparisonOfValues.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/obj/Debug/net6.0/ComparisonOfValues.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/obj/Debug/net6.0/ComparisonOfValues.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/obj/Debug/net6.0/ComparisonOfValues.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/obj/Debug/net6.0/refint/ComparisonOfValues.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/obj/Debug/net6.0/ComparisonOfValues.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/obj/Debug/net6.0/ComparisonOfValues.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/3. ConditionalConstructions/ComparisonOfValues/ComparisonOfValues/obj/Debug/net6.0/ref/ComparisonOfValues.dll
