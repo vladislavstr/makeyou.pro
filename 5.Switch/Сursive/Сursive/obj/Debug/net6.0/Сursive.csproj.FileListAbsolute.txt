@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/bin/Debug/net6.0/Сursive
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/bin/Debug/net6.0/Сursive.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/bin/Debug/net6.0/Сursive.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/bin/Debug/net6.0/Сursive.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/bin/Debug/net6.0/Сursive.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/obj/Debug/net6.0/Сursive.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/obj/Debug/net6.0/Сursive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/obj/Debug/net6.0/Сursive.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/obj/Debug/net6.0/Сursive.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/obj/Debug/net6.0/Сursive.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/obj/Debug/net6.0/Сursive.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/obj/Debug/net6.0/refint/Сursive.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/obj/Debug/net6.0/Сursive.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/obj/Debug/net6.0/Сursive.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/5.Switch/Сursive/Сursive/obj/Debug/net6.0/ref/Сursive.dll
