@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Projects/Degree/Degree/bin/Debug/net6.0/Degree
+/Users/vladislavstrelnikov/Projects/Degree/Degree/bin/Debug/net6.0/Degree.deps.json
+/Users/vladislavstrelnikov/Projects/Degree/Degree/bin/Debug/net6.0/Degree.runtimeconfig.json
+/Users/vladislavstrelnikov/Projects/Degree/Degree/bin/Debug/net6.0/Degree.dll
+/Users/vladislavstrelnikov/Projects/Degree/Degree/bin/Debug/net6.0/Degree.pdb
+/Users/vladislavstrelnikov/Projects/Degree/Degree/obj/Debug/net6.0/Degree.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Projects/Degree/Degree/obj/Debug/net6.0/Degree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Projects/Degree/Degree/obj/Debug/net6.0/Degree.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Projects/Degree/Degree/obj/Debug/net6.0/Degree.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Projects/Degree/Degree/obj/Debug/net6.0/Degree.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Projects/Degree/Degree/obj/Debug/net6.0/Degree.dll
+/Users/vladislavstrelnikov/Projects/Degree/Degree/obj/Debug/net6.0/refint/Degree.dll
+/Users/vladislavstrelnikov/Projects/Degree/Degree/obj/Debug/net6.0/Degree.pdb
+/Users/vladislavstrelnikov/Projects/Degree/Degree/obj/Debug/net6.0/Degree.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Projects/Degree/Degree/obj/Debug/net6.0/ref/Degree.dll

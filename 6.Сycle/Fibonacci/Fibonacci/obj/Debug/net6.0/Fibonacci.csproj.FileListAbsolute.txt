@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/bin/Debug/net6.0/Fibonacci
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/bin/Debug/net6.0/Fibonacci.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/bin/Debug/net6.0/Fibonacci.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/bin/Debug/net6.0/Fibonacci.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/bin/Debug/net6.0/Fibonacci.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/obj/Debug/net6.0/refint/Fibonacci.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Fibonacci/Fibonacci/obj/Debug/net6.0/ref/Fibonacci.dll

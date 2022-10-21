@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/bin/Debug/net6.0/Square
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/bin/Debug/net6.0/Square.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/bin/Debug/net6.0/Square.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/bin/Debug/net6.0/Square.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/bin/Debug/net6.0/Square.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/obj/Debug/net6.0/Square.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/obj/Debug/net6.0/Square.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/obj/Debug/net6.0/Square.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/obj/Debug/net6.0/Square.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/obj/Debug/net6.0/Square.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/obj/Debug/net6.0/Square.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/obj/Debug/net6.0/refint/Square.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/obj/Debug/net6.0/Square.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/obj/Debug/net6.0/Square.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/6.Сycle/Square/Square/obj/Debug/net6.0/ref/Square.dll
