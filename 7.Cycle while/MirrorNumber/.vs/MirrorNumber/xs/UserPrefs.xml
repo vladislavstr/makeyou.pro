@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0BC0A273-DB28-4999-8739-A49101AB67D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MirrorNumber/Program.cs">
+    <Files>
+      <File FileName="MirrorNumber/Program.cs" Line="8" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MirrorNumber" expanded="True">
+            <Node name="MirrorNumber" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MirrorNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

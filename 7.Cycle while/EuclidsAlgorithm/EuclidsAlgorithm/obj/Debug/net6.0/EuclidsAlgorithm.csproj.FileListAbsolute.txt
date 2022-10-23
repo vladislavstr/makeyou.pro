@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/obj/Debug/net6.0/EuclidsAlgorithm.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/obj/Debug/net6.0/EuclidsAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/obj/Debug/net6.0/EuclidsAlgorithm.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/obj/Debug/net6.0/EuclidsAlgorithm.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/obj/Debug/net6.0/EuclidsAlgorithm.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/bin/Debug/net6.0/EuclidsAlgorithm
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/bin/Debug/net6.0/EuclidsAlgorithm.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/bin/Debug/net6.0/EuclidsAlgorithm.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/bin/Debug/net6.0/EuclidsAlgorithm.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/bin/Debug/net6.0/EuclidsAlgorithm.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/obj/Debug/net6.0/EuclidsAlgorithm.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/obj/Debug/net6.0/refint/EuclidsAlgorithm.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/obj/Debug/net6.0/EuclidsAlgorithm.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/obj/Debug/net6.0/EuclidsAlgorithm.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/EuclidsAlgorithm/EuclidsAlgorithm/obj/Debug/net6.0/ref/EuclidsAlgorithm.dll

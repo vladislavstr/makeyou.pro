@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/obj/Debug/net6.0/MirrorNumber.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/obj/Debug/net6.0/MirrorNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/obj/Debug/net6.0/MirrorNumber.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/obj/Debug/net6.0/MirrorNumber.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/obj/Debug/net6.0/MirrorNumber.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/bin/Debug/net6.0/MirrorNumber
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/bin/Debug/net6.0/MirrorNumber.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/bin/Debug/net6.0/MirrorNumber.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/bin/Debug/net6.0/MirrorNumber.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/bin/Debug/net6.0/MirrorNumber.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/obj/Debug/net6.0/MirrorNumber.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/obj/Debug/net6.0/refint/MirrorNumber.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/obj/Debug/net6.0/MirrorNumber.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/obj/Debug/net6.0/MirrorNumber.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/MirrorNumber/MirrorNumber/obj/Debug/net6.0/ref/MirrorNumber.dll

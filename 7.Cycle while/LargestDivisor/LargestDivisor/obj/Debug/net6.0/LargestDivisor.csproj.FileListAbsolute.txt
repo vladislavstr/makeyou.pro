@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/bin/Debug/net6.0/LargestDivisor
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/bin/Debug/net6.0/LargestDivisor.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/bin/Debug/net6.0/LargestDivisor.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/bin/Debug/net6.0/LargestDivisor.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/bin/Debug/net6.0/LargestDivisor.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/obj/Debug/net6.0/LargestDivisor.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/obj/Debug/net6.0/LargestDivisor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/obj/Debug/net6.0/LargestDivisor.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/obj/Debug/net6.0/LargestDivisor.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/obj/Debug/net6.0/LargestDivisor.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/obj/Debug/net6.0/LargestDivisor.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/obj/Debug/net6.0/refint/LargestDivisor.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/obj/Debug/net6.0/LargestDivisor.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/obj/Debug/net6.0/LargestDivisor.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/LargestDivisor/LargestDivisor/obj/Debug/net6.0/ref/LargestDivisor.dll

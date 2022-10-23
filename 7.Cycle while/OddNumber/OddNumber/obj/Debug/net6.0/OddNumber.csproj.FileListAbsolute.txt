@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/obj/Debug/net6.0/OddNumber.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/obj/Debug/net6.0/OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/obj/Debug/net6.0/OddNumber.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/obj/Debug/net6.0/OddNumber.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/obj/Debug/net6.0/OddNumber.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/bin/Debug/net6.0/OddNumber
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/bin/Debug/net6.0/OddNumber.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/bin/Debug/net6.0/OddNumber.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/bin/Debug/net6.0/OddNumber.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/bin/Debug/net6.0/OddNumber.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/obj/Debug/net6.0/OddNumber.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/obj/Debug/net6.0/refint/OddNumber.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/obj/Debug/net6.0/OddNumber.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/obj/Debug/net6.0/OddNumber.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/OddNumber/OddNumber/obj/Debug/net6.0/ref/OddNumber.dll

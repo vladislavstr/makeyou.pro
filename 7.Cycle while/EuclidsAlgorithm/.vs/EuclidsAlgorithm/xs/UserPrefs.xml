@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{423A8A1B-4CC0-48C5-84B5-1E8A2452C69A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EuclidsAlgorithm/Program.cs">
+    <Files>
+      <File FileName="EuclidsAlgorithm/Program.cs" Line="43" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EuclidsAlgorithm" expanded="True">
+            <Node name="EuclidsAlgorithm" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EuclidsAlgorithm PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
