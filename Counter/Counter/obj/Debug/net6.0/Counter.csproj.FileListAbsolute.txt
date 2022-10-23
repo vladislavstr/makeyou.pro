@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/obj/Debug/net6.0/Counter.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/obj/Debug/net6.0/Counter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/obj/Debug/net6.0/Counter.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/obj/Debug/net6.0/Counter.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/obj/Debug/net6.0/Counter.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/bin/Debug/net6.0/Counter
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/bin/Debug/net6.0/Counter.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/bin/Debug/net6.0/Counter.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/bin/Debug/net6.0/Counter.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/bin/Debug/net6.0/Counter.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/obj/Debug/net6.0/Counter.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/obj/Debug/net6.0/refint/Counter.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/obj/Debug/net6.0/Counter.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/obj/Debug/net6.0/Counter.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Counter/Counter/obj/Debug/net6.0/ref/Counter.dll
