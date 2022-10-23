@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/bin/Debug/net6.0/Sequence
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/bin/Debug/net6.0/Sequence.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/bin/Debug/net6.0/Sequence.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/bin/Debug/net6.0/Sequence.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/bin/Debug/net6.0/Sequence.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/obj/Debug/net6.0/Sequence.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/obj/Debug/net6.0/Sequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/obj/Debug/net6.0/Sequence.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/obj/Debug/net6.0/Sequence.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/obj/Debug/net6.0/Sequence.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/obj/Debug/net6.0/Sequence.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/obj/Debug/net6.0/refint/Sequence.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/obj/Debug/net6.0/Sequence.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/obj/Debug/net6.0/Sequence.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Sequence/Sequence/obj/Debug/net6.0/ref/Sequence.dll

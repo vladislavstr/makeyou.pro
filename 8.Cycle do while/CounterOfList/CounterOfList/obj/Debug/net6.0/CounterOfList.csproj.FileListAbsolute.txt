@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/bin/Debug/net6.0/CounterOfList
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/bin/Debug/net6.0/CounterOfList.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/bin/Debug/net6.0/CounterOfList.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/bin/Debug/net6.0/CounterOfList.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/bin/Debug/net6.0/CounterOfList.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/obj/Debug/net6.0/CounterOfList.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/obj/Debug/net6.0/CounterOfList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/obj/Debug/net6.0/CounterOfList.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/obj/Debug/net6.0/CounterOfList.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/obj/Debug/net6.0/CounterOfList.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/obj/Debug/net6.0/CounterOfList.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/obj/Debug/net6.0/refint/CounterOfList.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/obj/Debug/net6.0/CounterOfList.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/obj/Debug/net6.0/CounterOfList.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfList/CounterOfList/obj/Debug/net6.0/ref/CounterOfList.dll

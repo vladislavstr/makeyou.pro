@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{605AF63B-A0F3-4436-A7D7-40513B04F020}|Default">
+  <MonoDevelop.Ide.ItemProperties.DalfDivisionMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DalfDivisionMethod/Program.cs">
+    <Files>
+      <File FileName="DalfDivisionMethod/Program.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DalfDivisionMethod" expanded="True">
+            <Node name="DalfDivisionMethod" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

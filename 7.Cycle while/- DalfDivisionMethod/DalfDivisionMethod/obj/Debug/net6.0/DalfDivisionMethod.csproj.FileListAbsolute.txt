@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/obj/Debug/net6.0/DalfDivisionMethod.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/obj/Debug/net6.0/DalfDivisionMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/obj/Debug/net6.0/DalfDivisionMethod.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/obj/Debug/net6.0/DalfDivisionMethod.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/obj/Debug/net6.0/DalfDivisionMethod.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/bin/Debug/net6.0/DalfDivisionMethod
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/bin/Debug/net6.0/DalfDivisionMethod.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/bin/Debug/net6.0/DalfDivisionMethod.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/bin/Debug/net6.0/DalfDivisionMethod.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/bin/Debug/net6.0/DalfDivisionMethod.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/obj/Debug/net6.0/DalfDivisionMethod.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/obj/Debug/net6.0/refint/DalfDivisionMethod.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/obj/Debug/net6.0/DalfDivisionMethod.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/obj/Debug/net6.0/DalfDivisionMethod.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/7.Cycle while/DalfDivisionMethod/DalfDivisionMethod/obj/Debug/net6.0/ref/DalfDivisionMethod.dll
