@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{0E16188E-ADFA-4411-A738-7FD0F6A639CE}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/Program.cs" relfile="CounterOfPrimeNumbers/Program.cs" line="15" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CounterOfPrimeNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CounterOfPrimeNumbers/Program.cs">
+    <Files>
+      <File FileName="CounterOfPrimeNumbers/Program.cs" Line="31" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CounterOfPrimeNumbers" expanded="True">
+            <Node name="CounterOfPrimeNumbers" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CounterOfPrimeNumbers FirstBuild="True" />
 </Properties>

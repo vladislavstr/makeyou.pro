@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/obj/Debug/net6.0/CounterOfPrimeNumbers.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/obj/Debug/net6.0/CounterOfPrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/obj/Debug/net6.0/CounterOfPrimeNumbers.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/obj/Debug/net6.0/CounterOfPrimeNumbers.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/obj/Debug/net6.0/CounterOfPrimeNumbers.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/bin/Debug/net6.0/CounterOfPrimeNumbers
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/bin/Debug/net6.0/CounterOfPrimeNumbers.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/bin/Debug/net6.0/CounterOfPrimeNumbers.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/bin/Debug/net6.0/CounterOfPrimeNumbers.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/bin/Debug/net6.0/CounterOfPrimeNumbers.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/obj/Debug/net6.0/CounterOfPrimeNumbers.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/obj/Debug/net6.0/refint/CounterOfPrimeNumbers.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/obj/Debug/net6.0/CounterOfPrimeNumbers.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/obj/Debug/net6.0/CounterOfPrimeNumbers.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/obj/Debug/net6.0/ref/CounterOfPrimeNumbers.dll

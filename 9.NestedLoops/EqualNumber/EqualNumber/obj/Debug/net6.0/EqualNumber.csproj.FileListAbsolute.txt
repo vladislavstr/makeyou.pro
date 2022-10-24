@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/obj/Debug/net6.0/EqualNumber.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/obj/Debug/net6.0/EqualNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/obj/Debug/net6.0/EqualNumber.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/obj/Debug/net6.0/EqualNumber.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/obj/Debug/net6.0/EqualNumber.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/bin/Debug/net6.0/EqualNumber
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/bin/Debug/net6.0/EqualNumber.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/bin/Debug/net6.0/EqualNumber.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/bin/Debug/net6.0/EqualNumber.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/bin/Debug/net6.0/EqualNumber.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/obj/Debug/net6.0/EqualNumber.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/obj/Debug/net6.0/refint/EqualNumber.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/obj/Debug/net6.0/EqualNumber.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/obj/Debug/net6.0/EqualNumber.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/EqualNumber/EqualNumber/obj/Debug/net6.0/ref/EqualNumber.dll

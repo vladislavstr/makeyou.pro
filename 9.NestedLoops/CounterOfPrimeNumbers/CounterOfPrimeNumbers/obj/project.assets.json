@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfPrimeNumbers/CounterOfPrimeNumbers/CounterOfPrimeNumbers.csproj",
+      "projectUniqueName": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/CounterOfPrimeNumbers.csproj",
       "projectName": "CounterOfPrimeNumbers",
-      "projectPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfPrimeNumbers/CounterOfPrimeNumbers/CounterOfPrimeNumbers.csproj",
+      "projectPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/CounterOfPrimeNumbers.csproj",
       "packagesPath": "/Users/vladislavstrelnikov/.nuget/packages/",
-      "outputPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/CounterOfPrimeNumbers/CounterOfPrimeNumbers/obj/",
+      "outputPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/9.NestedLoops/CounterOfPrimeNumbers/CounterOfPrimeNumbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vladislavstrelnikov/.nuget/NuGet/NuGet.Config"

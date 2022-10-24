@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3DAFA169-53E3-4135-837A-ABD03039FF6C}|Default">
+  <MonoDevelop.Ide.ItemProperties.EqualNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="EqualNumber/Program.cs">
+    <Files>
+      <File FileName="EqualNumber/Program.cs" Line="41" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EqualNumber" expanded="True">
+            <Node name="EqualNumber" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
