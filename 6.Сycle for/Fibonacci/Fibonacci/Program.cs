@@ -13,12 +13,13 @@ int a = 0;
 int b = 1;
 int с = 0;
 
-for (int i = 1; i < value; i++)
+for (int i = 1; i <= value; i++)
 {
-    //Console.WriteLine($"a - {a}");
+    
     с = a;
     a = a + b;
     b = с;
+    //Console.WriteLine($"a - {a}");
 }
 
 Console.WriteLine(a);
