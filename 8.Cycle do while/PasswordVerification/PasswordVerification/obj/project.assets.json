@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/PasswordVerification/PasswordVerification/PasswordVerification.csproj",
+      "projectUniqueName": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/PasswordVerification/PasswordVerification/PasswordVerification.csproj",
       "projectName": "PasswordVerification",
-      "projectPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/PasswordVerification/PasswordVerification/PasswordVerification.csproj",
+      "projectPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/PasswordVerification/PasswordVerification/PasswordVerification.csproj",
       "packagesPath": "/Users/vladislavstrelnikov/.nuget/packages/",
-      "outputPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/PasswordVerification/PasswordVerification/obj/",
+      "outputPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/PasswordVerification/PasswordVerification/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vladislavstrelnikov/.nuget/NuGet/NuGet.Config"

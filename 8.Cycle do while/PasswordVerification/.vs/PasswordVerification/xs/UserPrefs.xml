@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{138F3FD2-F35E-44CD-AB00-241127BB13F8}|Default">
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="PasswordVerification/Program.cs">
     <Files>
-      <File FileName="PasswordVerification/Program.cs" Line="7" Column="38" />
+      <File FileName="PasswordVerification/Program.cs" Line="10" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,10 +17,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.PasswordVerification PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -25,5 +25,17 @@ do
 }
 while (value != 0);
 Console.WriteLine("Finish");
-Console.WriteLine($"Negative sum: {neg}");
-Console.WriteLine($"Positive sum: {pos}");
+if(neg > pos)
+{
+
+}
+
+else if (neg < pos)
+{
+    Console.WriteLine($"Negative sum: {neg} < Positv sum: {pos}");
+}
+
+else
+{
+    Console.WriteLine($"Negative sum: {neg} > Positv sum: {pos}");
+}

@@ -4,12 +4,12 @@
 
 Console.Write("write password and press enter/return: ");
 
-string password = Console.ReadLine();
+string password; //= Console.ReadLine();
 string truePassword = "Pass123!";
 
 do
 {
-    Console.WriteLine("Error");
+    //Console.WriteLine("Error");
     password = Console.ReadLine();
 }
 while (password != truePassword);

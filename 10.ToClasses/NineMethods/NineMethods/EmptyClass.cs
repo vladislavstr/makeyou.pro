@@ -14,19 +14,20 @@ namespace NineMethods
         //2) Метод получает на вход 2 числа(A и B). Если A больше B, подсчитать A+B, если A равно B, подсчитать A* B, если A меньше B, подсчитать A-B.
         public static int ComparisonAndOperationsionsValues(int a, int b)
         {
+            int c;
             if (a > b)
             {
-                return a + b;
+                c = a + b;
             }
             else if (a == b)
             {
-                return a * b;
+                c = a * b;
             }
             else if (a < b)
             {
-                return a - b;
+                c = a - b;
             }
-
+            return c;
         }
 
 
@@ -169,8 +170,18 @@ namespace NineMethods
 
 
         //4) Метод получает на вход число.Проверить попадает ли оно в один из диапазонов: от 0 до 10, от 20 до 30 или от 40 до 50. *Здесь хорошим вариантом будет вернуть true или false.
-        public static bool SolvingLinearEquation(int value)
+        public static bool CheckRange(int value)
         {
+            bool a;
+            if (((0 < value) && (value < 10)) || ((20 < value) && (value < 30)) || ((40 < value) && (value < 50)))
+            {
+                a = true;
+            }
+            else
+            {
+                a = false;
+            }
+            return a;
         }
 
 

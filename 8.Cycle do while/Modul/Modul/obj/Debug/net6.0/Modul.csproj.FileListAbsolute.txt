@@ -13,3 +13,18 @@
 /Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Modul/Modul/obj/Debug/net6.0/Modul.pdb
 /Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Modul/Modul/obj/Debug/net6.0/Modul.genruntimeconfig.cache
 /Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/Modul/Modul/obj/Debug/net6.0/ref/Modul.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/bin/Debug/net6.0/Modul
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/bin/Debug/net6.0/Modul.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/bin/Debug/net6.0/Modul.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/bin/Debug/net6.0/Modul.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/bin/Debug/net6.0/Modul.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/obj/Debug/net6.0/Modul.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/obj/Debug/net6.0/Modul.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/obj/Debug/net6.0/Modul.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/obj/Debug/net6.0/Modul.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/obj/Debug/net6.0/Modul.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/obj/Debug/net6.0/Modul.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/obj/Debug/net6.0/refint/Modul.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/obj/Debug/net6.0/Modul.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/obj/Debug/net6.0/Modul.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/8.Cycle do while/Modul/Modul/obj/Debug/net6.0/ref/Modul.dll
