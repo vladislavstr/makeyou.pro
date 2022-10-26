@@ -1,15 +1,14 @@
-﻿<Properties StartupConfiguration="{16FA1A97-F6A6-461B-AB6E-D70E7EBC0ADD}|Default">
+﻿<Properties StartupConfiguration="{D4E3FB3C-0BBE-4F3B-819B-42A1920F0B9B}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NineMethods/MathOpon.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MirrorTest/Program.cs">
     <Files>
-      <File FileName="NineMethods/Program.cs" Line="21" Column="14" />
-      <File FileName="NineMethods/MathOpon.cs" Line="247" Column="1" />
+      <File FileName="MirrorTest/Program.cs" Line="19" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="NineMethods" expanded="True">
-            <Node name="NineMethods" expanded="True" />
+          <Node name="MirrorTest" expanded="True">
+            <Node name="MirrorTest" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -19,7 +18,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.NineMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MirrorTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/bin/Debug/net6.0/MirrorTest
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/bin/Debug/net6.0/MirrorTest.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/bin/Debug/net6.0/MirrorTest.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/bin/Debug/net6.0/MirrorTest.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/bin/Debug/net6.0/MirrorTest.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/obj/Debug/net6.0/MirrorTest.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/obj/Debug/net6.0/MirrorTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/obj/Debug/net6.0/MirrorTest.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/obj/Debug/net6.0/MirrorTest.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/obj/Debug/net6.0/MirrorTest.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/obj/Debug/net6.0/MirrorTest.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/obj/Debug/net6.0/refint/MirrorTest.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/obj/Debug/net6.0/MirrorTest.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/obj/Debug/net6.0/MirrorTest.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/MirrorTest/MirrorTest/obj/Debug/net6.0/ref/MirrorTest.dll

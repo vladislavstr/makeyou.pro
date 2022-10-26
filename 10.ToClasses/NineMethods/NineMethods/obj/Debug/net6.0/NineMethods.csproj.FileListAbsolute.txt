@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/obj/Debug/net6.0/NineMethods.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/obj/Debug/net6.0/NineMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/obj/Debug/net6.0/NineMethods.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/obj/Debug/net6.0/NineMethods.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/obj/Debug/net6.0/NineMethods.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/bin/Debug/net6.0/NineMethods
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/bin/Debug/net6.0/NineMethods.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/bin/Debug/net6.0/NineMethods.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/bin/Debug/net6.0/NineMethods.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/bin/Debug/net6.0/NineMethods.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/obj/Debug/net6.0/NineMethods.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/obj/Debug/net6.0/refint/NineMethods.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/obj/Debug/net6.0/NineMethods.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/obj/Debug/net6.0/NineMethods.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/10.ToClasses/NineMethods/NineMethods/obj/Debug/net6.0/ref/NineMethods.dll
