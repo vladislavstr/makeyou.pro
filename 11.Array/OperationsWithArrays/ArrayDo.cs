@@ -36,8 +36,9 @@ namespace OperationsWithArrays
         {
             for(int i = 0; i < array.Length; i++)
             {
-                Console.WriteLine($"{array[i]}, ");
+                Console.Write($"{array[i]}, ");
             }
+            Console.WriteLine(array);
         }
 
 
@@ -125,12 +126,13 @@ namespace OperationsWithArrays
         //6) Сделать реверс массива(массив в обратном направлении).
         public static int[] ReverseArray_6(int[] array)
         {
-            int len = array.Length;
-            int[] arrayRevers = new int[len];
+            int lenArr = array.Length;
+            int tmpLen = lenArr - 1;
+            int[] arrayRevers = new int[lenArr];
 
-            for (int i = 0; i < len; i++)
+            for (int i = 0; i < lenArr; i++)
             {
-                arrayRevers[i] = array[len - i];
+                arrayRevers[i] = array[tmpLen-i];
             }
             return arrayRevers;
         }
@@ -159,14 +161,24 @@ namespace OperationsWithArrays
             
             int len = array.Length;
             int mid = len / 2;
-            int[] newArray = new int[len];
 
             for (int i = 0; i < mid; i++)
             {
-                newArray[i] = array[mid + i];
-                newArray[mid + i] = array[i];
+                if (len % 2 == 0)
+                {
+                    int tmp = array[i];
+                    array[i] = array[mid + i];
+                    array[mid + i] = tmp;
+                }
+                else
+                {
+                    int tmp = array[i];
+                    array[i] = array[mid + i + 1];
+                    array[mid + i + 1] = tmp;
+                }
             }
-            return newArray;
+
+            return array;
         }
 
 

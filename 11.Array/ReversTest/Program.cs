@@ -3,13 +3,16 @@
 
 int[] array = new int[] { 2, 3, 4, 5 };
 
-int max = array[0];
+int len = array.Length-1;
 
-for(int i = 1; i < array.Length; i++)
-{
-    if (max < array[i])
-    {
-        max = array[i];
-    }
-}
-Console.WriteLine(max);
+Console.WriteLine(len);
+Console.WriteLine(array[len-1]);
+
+int[] arrayRevers = new int[len];
+
+//for (int i = 0; i < len; i++)
+//{
+//    arrayRevers[i] = array[len - i];
+//}
+
+//Console.WriteLine(arrayRevers);
