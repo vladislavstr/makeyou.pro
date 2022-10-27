@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/obj/Debug/net6.0/OperationsWithArrays.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/obj/Debug/net6.0/OperationsWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/obj/Debug/net6.0/OperationsWithArrays.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/obj/Debug/net6.0/OperationsWithArrays.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/obj/Debug/net6.0/OperationsWithArrays.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/bin/Debug/net6.0/OperationsWithArrays
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/bin/Debug/net6.0/OperationsWithArrays.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/bin/Debug/net6.0/OperationsWithArrays.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/bin/Debug/net6.0/OperationsWithArrays.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/bin/Debug/net6.0/OperationsWithArrays.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/obj/Debug/net6.0/OperationsWithArrays.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/obj/Debug/net6.0/refint/OperationsWithArrays.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/obj/Debug/net6.0/OperationsWithArrays.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/obj/Debug/net6.0/OperationsWithArrays.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/OperationsWithArrays/obj/Debug/net6.0/ref/OperationsWithArrays.dll

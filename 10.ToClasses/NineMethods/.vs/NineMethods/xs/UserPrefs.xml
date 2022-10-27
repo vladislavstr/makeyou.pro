@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{16FA1A97-F6A6-461B-AB6E-D70E7EBC0ADD}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NineMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="NineMethods/MathOpon.cs">
     <Files>
       <File FileName="NineMethods/Program.cs" Line="21" Column="14" />
@@ -9,7 +13,9 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NineMethods" expanded="True">
-            <Node name="NineMethods" expanded="True" />
+            <Node name="NineMethods" expanded="True">
+              <Node name="MathOpon.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -19,9 +25,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.NineMethods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

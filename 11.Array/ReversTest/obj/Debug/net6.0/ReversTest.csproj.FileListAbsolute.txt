@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/bin/Debug/net6.0/ReversTest
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/bin/Debug/net6.0/ReversTest.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/bin/Debug/net6.0/ReversTest.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/bin/Debug/net6.0/ReversTest.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/bin/Debug/net6.0/ReversTest.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/obj/Debug/net6.0/ReversTest.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/obj/Debug/net6.0/ReversTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/obj/Debug/net6.0/ReversTest.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/obj/Debug/net6.0/ReversTest.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/obj/Debug/net6.0/ReversTest.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/obj/Debug/net6.0/ReversTest.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/obj/Debug/net6.0/refint/ReversTest.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/obj/Debug/net6.0/ReversTest.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/obj/Debug/net6.0/ReversTest.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/11.Array/ReversTest/obj/Debug/net6.0/ref/ReversTest.dll
