@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/obj/Debug/net6.0/Increase.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/obj/Debug/net6.0/Increase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/obj/Debug/net6.0/Increase.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/obj/Debug/net6.0/Increase.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/obj/Debug/net6.0/Increase.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/bin/Debug/net6.0/Increase
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/bin/Debug/net6.0/Increase.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/bin/Debug/net6.0/Increase.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/bin/Debug/net6.0/Increase.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/bin/Debug/net6.0/Increase.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/obj/Debug/net6.0/Increase.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/obj/Debug/net6.0/refint/Increase.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/obj/Debug/net6.0/Increase.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/obj/Debug/net6.0/Increase.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/Increase/obj/Debug/net6.0/ref/Increase.dll

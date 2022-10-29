@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/bin/Debug/net6.0/BoobleTest
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/bin/Debug/net6.0/BoobleTest.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/bin/Debug/net6.0/BoobleTest.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/bin/Debug/net6.0/BoobleTest.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/bin/Debug/net6.0/BoobleTest.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/obj/Debug/net6.0/BoobleTest.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/obj/Debug/net6.0/BoobleTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/obj/Debug/net6.0/BoobleTest.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/obj/Debug/net6.0/BoobleTest.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/obj/Debug/net6.0/BoobleTest.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/obj/Debug/net6.0/BoobleTest.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/obj/Debug/net6.0/refint/BoobleTest.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/obj/Debug/net6.0/BoobleTest.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/obj/Debug/net6.0/BoobleTest.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/12.SortingArray/BoobleTest/obj/Debug/net6.0/ref/BoobleTest.dll
