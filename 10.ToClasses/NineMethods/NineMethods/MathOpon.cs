@@ -296,7 +296,15 @@ namespace NineMethods
             bool answer = false;
 
             numA = numB = 0;
+            if(valueA < 0)
+            {
+                valueA /= -1;
 
+            }
+            else if (valueB < 0)
+            {
+                valueB /= -1;
+            }
             while (valueA != 0)
             {
 
