@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/bin/Debug/net6.0/Methods
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/bin/Debug/net6.0/Methods.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/bin/Debug/net6.0/Methods.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/bin/Debug/net6.0/Methods.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/bin/Debug/net6.0/Methods.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/obj/Debug/net6.0/Methods.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/obj/Debug/net6.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/obj/Debug/net6.0/Methods.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/obj/Debug/net6.0/Methods.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/obj/Debug/net6.0/Methods.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/obj/Debug/net6.0/Methods.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/obj/Debug/net6.0/refint/Methods.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/obj/Debug/net6.0/Methods.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/obj/Debug/net6.0/Methods.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/13.MultidimensionalArray/Methods/obj/Debug/net6.0/ref/Methods.dll
