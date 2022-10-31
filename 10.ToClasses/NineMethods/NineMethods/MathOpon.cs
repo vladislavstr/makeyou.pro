@@ -32,10 +32,20 @@ namespace NineMethods
             Console.WriteLine($"Result: {res}");
         }
 
-
-        //1) Метод получает на вход 3 числа(A, B и С). Верните решение(значение X) линейного уравнения стандартного вида, где A* X+B=C.
+        /// <summary>
+        ///  1) Метод получает на вход 3 числа(A, B и С). Верните решение(значение X) линейного уравнения стандартного вида, где A* X+B=C. 
+        /// </summary>
+        /// <param name="a">делитель</param>
+        /// <param name="b">b</param>
+        /// <param name="c">c</param>
+        /// <returns>результат</returns>
+        /// <exception cref="ArgumentException"> если а = 0</exception>
         public static double SolvingEquation_1(int a, int b, int c)
         {
+            if (a == 0)
+            {
+                throw new ArgumentException("a == 0");
+            }
             return (c - b) / a;
         }
 
@@ -241,6 +251,11 @@ namespace NineMethods
             int a = 0;
             int b = 1;
             int с = 0;
+
+            if(value == 0)
+            {
+                throw new ArgumentException("...") ;
+            }
 
             for (int i = 1; i <= value; i++)
             {

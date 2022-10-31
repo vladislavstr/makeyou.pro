@@ -1,18 +1,32 @@
 ﻿namespace NineMethods.Test;
 using NineMethods;
+using System;
 
 public class MathOponTests
 {
     //1) Метод получает на вход 3 числа (A, B и С). Верните решение(значение X) линейного уравнения стандартного вида, где A*X+B=C.
+    // (c - b) / a
     [TestCase(1, 1, 2, 1)]
     [TestCase(-1, -1, -2, 1)]
     [TestCase(1, -1, 0, 1)]
+    //[TestCase(0, 0, 0, 0)]
 
     public void SolvingEquation_1Test(int a, int b, int c, double expected)
     {
         double actual = MathOpon.SolvingEquation_1(a, b, c);
 
         Assert.AreEqual(expected, actual);
+    }
+
+
+    [Test]
+    public void SolvingEquation_1_WhenAIsZero_ShuldArgumtntExaption() //(int a, int b, int c, double expected)
+    {
+        int b = 1;
+        int c = 2;
+        int a = 0;
+
+        Assert.Throws<ArgumentException>(() => MathOpon.SolvingEquation_1(a, b, c));
     }
 
 
@@ -69,12 +83,19 @@ public class MathOponTests
     [TestCase(4, 3)]
     [TestCase(10, 55)]
     
-
     public void FibonacciCounting_6Test(int value, int expected)
     {
         int actual = MathOpon.FibonacciCounting_6(value);
 
         Assert.AreEqual(expected, actual);
+    }
+
+    [Test]
+    public void FibonacciCounting_6_WhenAIsZero_ShuldArgumtntExaption() //(int a, int b, int c, double expected)
+    {
+        int value = 0;
+
+        Assert.Throws<ArgumentException>(() => MathOpon.FibonacciCounting_6(value));
     }
 
     //7) Метод получает на вход число.Найти количество нечетных цифр этого числа.

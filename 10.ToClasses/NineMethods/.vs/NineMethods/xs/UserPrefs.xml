@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{16FA1A97-F6A6-461B-AB6E-D70E7EBC0ADD}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NineMethods.Test/MathOponTests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NineMethods/MathOpon.cs">
     <Files>
       <File FileName="NineMethods/Program.cs" Line="20" Column="128" />
-      <File FileName="NineMethods/MathOpon.cs" Line="306" Column="30" />
-      <File FileName="NineMethods.Test/MathOponTests.cs" Line="103" Column="188" />
+      <File FileName="NineMethods/MathOpon.cs" Line="47" Column="1" />
+      <File FileName="NineMethods.Test/MathOponTests.cs" Line="96" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NineMethods" expanded="True">
-            <Node name="NineMethods" expanded="True" />
+            <Node name="NineMethods" expanded="True">
+              <Node name="MathOpon.cs" selected="True" />
+            </Node>
             <Node name="NineMethods.Test" expanded="True">
               <Node name="Dependencies" expanded="True" />
             </Node>
@@ -25,9 +27,7 @@
           <Node name="NineMethods" expanded="True">
             <Node name="NineMethods.Test" expanded="True">
               <Node name="NineMethods.Test" expanded="True">
-                <Node name="MathOponTests" expanded="True">
-                  <Node name="SolvingLinearEquation_9Test(0,0,True)" selected="True" />
-                </Node>
+                <Node name="MathOponTests" expanded="True" />
               </Node>
             </Node>
           </Node>
