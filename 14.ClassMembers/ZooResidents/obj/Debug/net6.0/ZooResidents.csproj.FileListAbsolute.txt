@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/bin/Debug/net6.0/ZooResidents
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/bin/Debug/net6.0/ZooResidents.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/bin/Debug/net6.0/ZooResidents.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/bin/Debug/net6.0/ZooResidents.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/bin/Debug/net6.0/ZooResidents.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/obj/Debug/net6.0/ZooResidents.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/obj/Debug/net6.0/ZooResidents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/obj/Debug/net6.0/ZooResidents.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/obj/Debug/net6.0/ZooResidents.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/obj/Debug/net6.0/ZooResidents.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/obj/Debug/net6.0/ZooResidents.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/obj/Debug/net6.0/refint/ZooResidents.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/obj/Debug/net6.0/ZooResidents.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/obj/Debug/net6.0/ZooResidents.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/obj/Debug/net6.0/ref/ZooResidents.dll
