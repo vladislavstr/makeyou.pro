@@ -1,27 +1,39 @@
 ﻿<Properties StartupConfiguration="{1C1F9BEE-3A90-4EB3-AFD3-FC8C11B96DD6}|Default">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ZooResidents.Test FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.ZooResidents PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="36" Column="21" />
-      <File FileName="Animals.cs" Line="74" Column="36" />
+      <File FileName="Program.cs" Line="3" Column="33" />
+      <File FileName="Animals.cs" Line="87" Column="22" />
+      <File FileName="../ZooResidents.Test/AnimalsTests.cs" Line="21" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ZooResidents" expanded="True">
-            <Node name="ZooResidents" expanded="True" />
+            <Node name="ZooResidents" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="ZooResidents.Test" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
       </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ZooResidents" expanded="True" selected="True" />
+        </State>
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
