@@ -1,20 +1,22 @@
 ﻿<Properties StartupConfiguration="{16FA1A97-F6A6-461B-AB6E-D70E7EBC0ADD}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NineMethods/MathOpon.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.NineMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NineMethods.Test/MathOponTests.cs">
     <Files>
       <File FileName="NineMethods/Program.cs" Line="20" Column="128" />
-      <File FileName="NineMethods/MathOpon.cs" Line="47" Column="1" />
-      <File FileName="NineMethods.Test/MathOponTests.cs" Line="96" Column="23" />
+      <File FileName="NineMethods/MathOpon.cs" Line="47" Column="17" />
+      <File FileName="NineMethods.Test/MathOponTests.cs" Line="21" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NineMethods" expanded="True">
-            <Node name="NineMethods" expanded="True">
-              <Node name="MathOpon.cs" selected="True" />
-            </Node>
+            <Node name="NineMethods" expanded="True" />
             <Node name="NineMethods.Test" expanded="True">
               <Node name="Dependencies" expanded="True" />
+              <Node name="MathOponTests.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -24,21 +26,12 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="NineMethods" expanded="True">
-            <Node name="NineMethods.Test" expanded="True">
-              <Node name="NineMethods.Test" expanded="True">
-                <Node name="MathOponTests" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="NineMethods" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.NineMethods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

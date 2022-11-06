@@ -1,29 +1,23 @@
-﻿//namespace ZooResidents.Test;
-//using ZooResidents;
-//using System;
+﻿namespace ZooResidents.Test;
+using ZooResidents;
+using System;
 
-//public class AnimalsTests
-//{
-//    [TestCase(1, 1, 2, 1)]
-//    [TestCase(-1, -1, -2, 1)]
-//    [TestCase(1, -1, 0, 1)]
-//    //[TestCase(0, 0, 0, 0)]
+public class AnimalsTests
+{
+    
+    [Test]
+    public void ZooResidents_WhenAIsZero_ShuldArgumtntExaption() //(int a, int b, int c, double expected)
+    {
 
-//    public void ZooResidentsTest(string type, string name, int age, string ration, int rationMass, double expected)
-//    {
-//        double actual = Elephant()
+        string type="Elephant";
+        string name= "Vasya";
+        int age= -1;
+        string ration= "wfdf";
+        int rationMass = -1;
+        string[] array = new string[] { "sfds", "sf" };
 
-//        Assert.AreEqual(expected, actual);
-//    }
-
-
-//    [Test]
-//    public void ZooResidents_WhenAIsZero_ShuldArgumtntExaption() //(int a, int b, int c, double expected)
-//    {
-//        string type; string name; int age; string ration; int rationMass;
-
-//        Assert.Throws<ArgumentException>(() => Elephant(a, b, c));
-//    }
+        Assert.Throws<ArgumentException>(() => Elephant( type,  name,  age,  ration,  rationMass,  array));
+    }
 
 
-//}
+}

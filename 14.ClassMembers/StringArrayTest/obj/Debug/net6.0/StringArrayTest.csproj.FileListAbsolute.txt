@@ -1,0 +1,15 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/obj/Debug/net6.0/StringArrayTest.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/obj/Debug/net6.0/StringArrayTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/obj/Debug/net6.0/StringArrayTest.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/obj/Debug/net6.0/StringArrayTest.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/obj/Debug/net6.0/StringArrayTest.csproj.CoreCompileInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/bin/Debug/net6.0/StringArrayTest
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/bin/Debug/net6.0/StringArrayTest.deps.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/bin/Debug/net6.0/StringArrayTest.runtimeconfig.json
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/bin/Debug/net6.0/StringArrayTest.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/bin/Debug/net6.0/StringArrayTest.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/obj/Debug/net6.0/StringArrayTest.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/obj/Debug/net6.0/refint/StringArrayTest.dll
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/obj/Debug/net6.0/StringArrayTest.pdb
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/obj/Debug/net6.0/StringArrayTest.genruntimeconfig.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/StringArrayTest/obj/Debug/net6.0/ref/StringArrayTest.dll

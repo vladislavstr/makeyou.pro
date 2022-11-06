@@ -1,4 +1,5 @@
 ﻿using System;
+using ZooResidents;
 namespace ZooResidents;
 
 //Животное в зоопарке описывается на основе следующих параметров:
@@ -31,6 +32,7 @@ public class Elephant
     public int RationMass { get; set; }
     private const string _ration = "Hay";
 
+
     //Хищник или травоядное
     //private string _predatorOrHerbivore;
     public string PredatorOrHerbivore { get; set; }
@@ -43,42 +45,45 @@ public class Elephant
     //private string _appetite;
     public double Appetite { get; set; }
 
-    public Elephant(string type, string name, int age, string ration, int rationMass)
+    public Elephant(string type, string name, int age, string ration, int rationMass, string[] array)
     {
         Type = type;
         Name = name;
         Ration = ration;
-        RationMass = rationMass;
 
+        if (rationMass <= 0)
+        {
+            RationMass = 0;
+            throw new ArgumentException("rationMass <= 0");
+        }
+
+        else
+        {
+            RationMass = rationMass;
+        }
 
         if (age > 0 && age < 100)
         {
             Age = age;
         }
+
         else
         {
             Age = _age;
             throw new ArgumentException("a < 0 || a > 100");
         }
-        if (ration != _ration)
-        {
-            Ration = "NaN";
-            BadRation = ration;
-        }
-        else
-        {
-            Ration = ration;
-        }
 
-        //string tmp = "";
-        //for (int i; i < ration.Length; i++)
-        //{
-        //    if(ration[i] == _ration)
-        //    {
-        //        tmp += Convert.ToString(i);
-        //    }
+        string tmp = "... ";
+        for (int i = 0; i < array.Length; i++)
+        {
 
-        //}
+            if (array[i] == _ration)
+            {
+                tmp += array[i] + " ";
+            }
+
+        }
+        Ration = "eat " + tmp;
 
     }
 
@@ -98,8 +103,9 @@ public class Elephant
 
         else
         {
-            Console.WriteLine($"{Type} {Name} eating {RationMass}kg. of {Ration}");
+            Console.WriteLine($"{Type} {Name} received {RationMass}kg. of food and {Ration}");
         }
+
     }
 
     //Издать звук
