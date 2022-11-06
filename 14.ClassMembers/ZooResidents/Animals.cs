@@ -45,11 +45,10 @@ public class Elephant
     //private string _appetite;
     public double Appetite { get; set; }
 
-    public Elephant(string type, string name, int age, string ration, int rationMass, string[] array)
+    public Elephant(string type, string name, int age, int rationMass, string[] array)
     {
         Type = type;
         Name = name;
-        Ration = ration;
 
         if (rationMass <= 0)
         {

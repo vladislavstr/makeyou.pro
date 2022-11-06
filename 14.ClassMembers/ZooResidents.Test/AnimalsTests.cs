@@ -9,14 +9,13 @@ public class AnimalsTests
     public void ZooResidents_WhenAIsZero_ShuldArgumtntExaption() //(int a, int b, int c, double expected)
     {
 
-        string type="Elephant";
-        string name= "Vasya";
-        int age= -1;
-        string ration= "wfdf";
-        int rationMass = -1;
-        string[] array = new string[] { "sfds", "sf" };
+        Elephant Animal_Test = new Elephant("Efe", "Fedya", -1, -1, new[] { "113", "314", "swg" });
 
-        Assert.Throws<ArgumentException>(() => Elephant( type,  name,  age,  ration,  rationMass,  array));
+        //Animal_Test.ToEat();
+        //Animal_Test.DoVoice();
+        //Animal_Test.Play();
+
+        Assert.Throws<ArgumentException>(() => Elephant.ToEat());
     }
 
 
