@@ -30,7 +30,8 @@ public class Elephant
     public string Ration { get; set; }
     public string BadRation { get; set; }
     public int RationMass { get; set; }
-    private const string _ration = "Hay";
+    public bool RationFlag { get; set; }
+    private static string[] _ration = { "Hay","Banan","Grass" };
 
 
     //Хищник или травоядное
@@ -53,7 +54,7 @@ public class Elephant
         if (rationMass <= 0)
         {
             RationMass = 0;
-            throw new ArgumentException("rationMass <= 0");
+            //throw new ArgumentException("rationMass <= 0");
         }
 
         else
@@ -73,16 +74,29 @@ public class Elephant
         }
 
         string tmp = "... ";
+        bool tmpFlag = false;
+
         for (int i = 0; i < array.Length; i++)
         {
-
-            if (array[i] == _ration)
+            for(int j = 0; j < _ration.Length; j++)
+            if (array[i] == _ration[j])
             {
                 tmp += array[i] + " ";
-            }
+                tmpFlag = true;
 
+            }
         }
         Ration = "eat " + tmp;
+        RationFlag = tmpFlag;
+        string tmpBad = "";
+        if(RationFlag == false)
+        {
+            for(int n = 0; n < array.Length; n++)
+            {
+                tmpBad += array[n] + " ";
+            }
+        }
+        BadRation = tmpBad;
 
     }
 
@@ -90,12 +104,7 @@ public class Elephant
     //Есть
     public void ToEat()
     {
-        if(RationMass <= 5)
-        {
-            Console.WriteLine($"{Type} {Name} is hungry");
-        }
-
-        else if (Ration == "NaN")
+        if (RationFlag == false)
         {
             Console.WriteLine($"{Type} {Name} do not want eating {BadRation}");
         }
@@ -105,6 +114,19 @@ public class Elephant
             Console.WriteLine($"{Type} {Name} received {RationMass}kg. of food and {Ration}");
         }
 
+    }
+
+    public void ToQuantityEat()
+    {
+        if (RationMass <= 5)
+        {
+            Console.WriteLine($"{Type} {Name} is hungry");
+        }
+
+        else
+        {
+            Console.WriteLine($"{Type} {Name} satisfied");
+        }
     }
 
     //Издать звук
