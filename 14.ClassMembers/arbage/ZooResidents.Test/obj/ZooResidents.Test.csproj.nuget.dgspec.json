@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents.Test/ZooResidents.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents.Test/ZooResidents.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents.Test/ZooResidents.Test.csproj",
+        "projectName": "ZooResidents.Test",
+        "projectPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents.Test/ZooResidents.Test.csproj",
+        "packagesPath": "/Users/vladislavstrelnikov/.nuget/packages/",
+        "outputPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vladislavstrelnikov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/ZooResidents.csproj": {
+                "projectPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/ZooResidents.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/ZooResidents.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/ZooResidents.csproj",
+        "projectName": "ZooResidents",
+        "projectPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/ZooResidents.csproj",
+        "packagesPath": "/Users/vladislavstrelnikov/.nuget/packages/",
+        "outputPath": "/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vladislavstrelnikov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents.Test/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents.Test/obj/Debug/net6.0/ZooResidents.Test.csproj.AssemblyReference.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents.Test/obj/Debug/net6.0/ZooResidents.Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents.Test/obj/Debug/net6.0/ZooResidents.Test.AssemblyInfoInputs.cache
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents.Test/obj/Debug/net6.0/ZooResidents.Test.AssemblyInfo.cs
+/Users/vladislavstrelnikov/Documents/GitHub/makeyou.pro/14.ClassMembers/ZooResidents.Test/obj/Debug/net6.0/ZooResidents.Test.csproj.CoreCompileInputs.cache

@@ -1,18 +1,21 @@
 ﻿<Properties StartupConfiguration="{1C1F9BEE-3A90-4EB3-AFD3-FC8C11B96DD6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Animals.cs">
     <Files>
-      <File FileName="Program.cs" Line="10" Column="21" />
-      <File FileName="Animals.cs" Line="33" Column="1" />
-      <File FileName="../ZooResidents.Test/AnimalsTests.cs" Line="8" Column="2" />
+      <File FileName="Program.cs" Line="24" Column="20" />
+      <File FileName="Animals.cs" Line="57" Column="74" />
+      <File FileName="../ZooResidents.Test/AnimalsTests.cs" Line="7" Column="17" />
       <File FileName="../../../../../.nuget/packages/microsoft.net.test.sdk/17.1.0/build/netcoreapp2.1/Microsoft.NET.Test.Sdk.Program.cs" Line="4" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ZooResidents" expanded="True">
-            <Node name="ZooResidents" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="ZooResidents" expanded="True" />
             <Node name="ZooResidents.Test" expanded="True">
               <Node name="Dependencies" expanded="True" />
             </Node>
@@ -29,11 +32,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ZooResidents PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
