@@ -8,16 +8,9 @@ public class Animal
     private int _age;
     private int _amountFoodEaten = 0;
 
-    public Animal(string type, string name, int age, string ration, int rationMass, string voice)
-    {
-        Type = type;
-        Name = name;
-        Age = age;
-        Ration = ration;
-        RationMass = rationMass;
-        Voice = voice;
-        
-    }
+    private string _rationCat = "fish";
+    private int _tationMassCat = 5;
+    private string _voiceCat = "Miau";
 
     public string Type { get; set; }
     public string Name { get; set; }
@@ -46,6 +39,32 @@ public class Animal
             }
         }
 
+    }
+
+
+    public Animal(string type, string name, int age, string ration, int rationMass, string voice)
+    {
+        Type = type;
+        Name = name;
+        Age = age;
+        Ration = ration;
+        RationMass = rationMass;
+        Voice = voice;
+        
+    }
+
+    public Animal(string type, string name, int age)
+    {
+        Name = name;
+        Age = age;
+
+        if(type == "Cat")
+        {
+            Type = type;
+            Ration = _rationCat;
+            RationMass = _tationMassCat;
+            Voice = _voiceCat;
+        }
     }
 
     public void ToEat(string food, int massFood)
