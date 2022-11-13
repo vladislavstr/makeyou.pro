@@ -1,31 +1,30 @@
 ﻿<Properties StartupConfiguration="{86CB1901-D525-4A4D-B131-990110CDDE5F}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="BirdAnimal.cs">
     <Files>
-      <File FileName="Program.cs" Line="4" Column="11" />
-      <File FileName="AbstractAnimals.cs" Line="10" Column="36" />
-      <File FileName="DogAnimal.cs" Line="20" Column="37" />
-      <File FileName="BirdAnimal.cs" Line="16" Column="62" />
+      <File FileName="AbstractAnimals.cs" Line="24" Column="18" />
+      <File FileName="DogAnimal.cs" Line="12" Column="1" />
+      <File FileName="CatAnimal.cs" Line="17" Column="1" />
+      <File FileName="BirdAnimal.cs" Line="22" Column="1" />
+      <File FileName="Program.cs" Line="32" Column="14" />
+      <File FileName="../Animals.Test/UnitTest1.cs" Line="6" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Animals" expanded="True">
-            <Node name="Animals" expanded="True">
-              <Node name="BirdAnimal.cs" selected="True" />
-            </Node>
+            <Node name="Animals" expanded="True" />
+            <Node name="Animals.Test" expanded="True" />
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Animals FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Animals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Animals.Test FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

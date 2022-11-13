@@ -1,36 +1,32 @@
-﻿using Animals;
+﻿//-Опишите класс животного как абстракцию
 
-DogAnimal dog = new DogAnimal("Sobaka");
-BirdAnimal bird = new BirdAnimal("Ptica");
-TortoiseAnimal tortoise = new TortoiseAnimal("Cherepaha");
+//-Добавьте минимум 3 класса конкретных животных, реализующих абстракцию, автоматически заполняющие часть полей (тип, что есть и тд)
 
-AbstractAnimal[] A = new AbstractAnimal[]
+//-Дополните конкретных животных методами игры со своими сородичами и особым функционалом (птицы умеют летать, приматы - лазить по деревьям) 
+
+//В итоге должна получиться структура животных объединенных общей абстракцией.
+
+
+using Animals;
+
+DogAnimal dog = new DogAnimal("Sobaka", 2);
+BirdAnimal bird = new BirdAnimal("Ptica", 4);
+CatAnimal cat = new CatAnimal("Coshka", 7);
+
+AbstractAnimals[] animalsArray = new AbstractAnimals[] {dog, cat, bird};
+
+for (int i = 0; i < animalsArray.Length; i++)
 {
-    dog, bird, tortoise
-};
+    animalsArray[i].Drink();
+    animalsArray[i].WriteRation();
+    animalsArray[i].DoVoice();
 
-for (int i = 0; i < 3; i++)
-{
-    A[i].Drink();
+    Console.WriteLine();
 }
 
 Console.WriteLine();
 
-for (int i = 0; i < 3; i++)
-{
-    A[i].Eat();
-}
-
-Console.WriteLine();
-
-for (int i = 0; i < 3; i++)
-{
-    A[i].Sleep();
-}
-
-Console.WriteLine();
-
-dog.Play();
 bird.Fly();
-tortoise.Swim();
-
+cat.Jump();
+dog.Eat("fish");
+dog.Eat("meat");

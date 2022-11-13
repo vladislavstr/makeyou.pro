@@ -1,16 +1,11 @@
 ﻿<Properties StartupConfiguration="{1C1F9BEE-3A90-4EB3-AFD3-FC8C11B96DD6}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ZooResidents PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="19" Column="9" />
-      <File FileName="Animals.cs" Line="59" Column="19" />
-      <File FileName="../ZooResidents.Test/AnimalsTests.cs" Line="8" Column="2" />
-      <File FileName="../../../../../.nuget/packages/microsoft.net.test.sdk/17.1.0/build/netcoreapp2.1/Microsoft.NET.Test.Sdk.Program.cs" Line="4" Column="41" />
+      <File FileName="Program.cs" Line="19" Column="20" />
+      <File FileName="Animals.cs" Line="70" Column="49" />
+      <File FileName="../ZooResidents.Test/AnimalsTests.cs" Line="7" Column="2" />
+      <File FileName="../../../../../.nuget/packages/microsoft.net.test.sdk/17.1.0/build/netcoreapp2.1/Microsoft.NET.Test.Sdk.Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,19 +14,17 @@
             <Node name="ZooResidents" expanded="True" />
             <Node name="ZooResidents.Test" expanded="True">
               <Node name="Dependencies" expanded="True" />
+              <Node name="AnimalsTests.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="ZooResidents" expanded="True" selected="True" />
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ZooResidents PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

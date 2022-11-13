@@ -1,30 +1,23 @@
-﻿using System;
-using Animals;
-using System.Data;
-using System.Xml.Linq;
-
-namespace Animals
+﻿namespace Animals
 {
     public class DogAnimal : AbstractAnimals
     {
-        public DogAnimal(string name)
+        public DogAnimal(string name, int age)
         {
             Name = name;
-            _type = "Bird";
+            _type = "Dog";
+            _rationType = "meat";
+            Age = age;
         }
 
-        public override void Eat()
-        {
-            Console.WriteLine($"{_type}-{Name}: ест");
-        }
         public override void Drink()
         {
-            Console.WriteLine($"{_type}-{Name}: пьет");
+            Console.WriteLine($"{_type}-{Name}: drinking from lake");
         }
 
-        public void DoVoice()
+        public override void DoVoice()
         {
-            Console.WriteLine($"{_type}-{Name}: гавкает");
+            Console.WriteLine($"{_type}-{Name}: barks");
         }
     }
 }
