@@ -11,6 +11,7 @@
             typeFeeding = typeFeed;
             _rationType = "meat";
             _sizeFullnessFeeding = 3;
+            statusObj = 1;
         }
 
         public override void DoVoice()

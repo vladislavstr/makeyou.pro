@@ -6,7 +6,7 @@
         private readonly string[] _biomArray = { "sea", "forest", "field" };
         private readonly string[] _typeFeedingArray = { "meat-eater", "herbivore" };
 
-        
+        public byte statusObj;
         public string _biomAnimal;
         public string _typeAnimal;
         public string _rationType;

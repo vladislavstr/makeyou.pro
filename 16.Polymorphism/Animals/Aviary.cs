@@ -129,7 +129,7 @@ namespace Animals
             for(int i = 0; i < NewAviary.Length; i++)
             {
                 
-                if (NewAviary[i].)
+                if (NewAviary[i])
 
                 if (BiomAviary == addAnimal._biomAnimal)
                 {

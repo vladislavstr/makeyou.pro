@@ -5,10 +5,11 @@
   <MonoDevelop.Ide.ItemProperties.Animals.Test FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Aviary.cs">
     <Files>
-      <File FileName="AbstractAnimals.cs" Line="5" Column="15" />
-      <File FileName="DogAnimal.cs" Line="13" Column="37" />
-      <File FileName="Aviary.cs" Line="29" Column="13" />
-      <File FileName="Program.cs" Line="32" Column="1" />
+      <File FileName="AbstractAnimals.cs" Line="9" Column="30" />
+      <File FileName="DogAnimal.cs" Line="14" Column="14" />
+      <File FileName="Aviary.cs" Line="127" Column="72" />
+      <File FileName="Program.cs" Line="6" Column="24" />
+      <File FileName="NaNAnimal.cs" Line="13" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
