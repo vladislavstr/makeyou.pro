@@ -1,30 +1,48 @@
-﻿//-Опишите класс животного как абстракцию
-
-//-Добавьте минимум 3 класса конкретных животных, реализующих абстракцию, автоматически заполняющие часть полей (тип, что есть и тд)
-
-//-Дополните конкретных животных методами игры со своими сородичами и особым функционалом (птицы умеют летать, приматы - лазить по деревьям) 
-
-//В итоге должна получиться структура животных объединенных общей абстракцией.
-
-
+﻿using System.Data;
 using Animals;
 
-DogAnimal dog = new DogAnimal("Pesik", 2, "forest", "meat-eater");
-GoatAnimal goat = new GoatAnimal("Tagil", 4, "field", "herbivore");
-CowAnimal cow = new CowAnimal("Burenka", 7, "field", "herbivore");
+//DogAnimal dog = new DogAnimal("Pesik", 2, "forest", "meat-eater");
+//GoatAnimal goat = new GoatAnimal("Tagil", 4, "forest", "herbivore");
+//CowAnimal cow = new CowAnimal("Burenka", 7, "field", "herbivore");
 
-AbstractAnimals[] animalsArray = new AbstractAnimals[] {dog, cow, goat};
+//AbstractAnimals[] animalsArray = new AbstractAnimals[] {dog, cow, goat};
 
-for (int i = 0; i < animalsArray.Length; i++)
+//for (int i = 0; i < animalsArray.Length; i++)
+//{
+//    animalsArray[i].Writeinfo();
+
+//    Console.WriteLine();
+//}
+
+//Console.WriteLine();
+
+//dog.Eating("fish",4);
+//dog.Eating("meat",8);
+
+AbstractAnimals[] animal = new AbstractAnimals[3];
+
+animal[0] = new DogAnimal("Pesik", 2, "forest", "meat-eater");
+animal[1] = new GoatAnimal("Tagil", 4, "forest", "herbivore");
+animal[2] = new CowAnimal("Burenka", 7, "field", "herbivore");
+
+for (int i = 0; i < animal.Length; i++)
 {
-    animalsArray[i].Writeinfo();
-
+    animal[i].Writeinfo();
     Console.WriteLine();
 }
 
+animal[1].Eating("meat",8);
 Console.WriteLine();
 
-dog.Eating("fish",4);
-dog.Eating("meat",8);
-
+Aviary test = new Aviary("aquarium for predatory fish", "sea", "meat-eater", 2);
+test.WriteInfoAviary();
 Console.WriteLine();
+
+test.DoSettlingAnimalToAviary(animal[0]);
+
+// Test colors with blue background, white foreground.
+Console.BackgroundColor = ConsoleColor.Red;
+//Console.ForegroundColor = ConsoleColor.White;
+Console.WriteLine("White on blue.");
+Console.WriteLine("Another line.");
+Console.ResetColor();

@@ -4,7 +4,7 @@
     {
         public CowAnimal(string name, int age, string biom, string typeFeed)
         {
-            _nameAnimal = name;
+            NameAnimal = name;
             _typeAnimal = "Cow";
             Age = age;
             Biom = biom;
@@ -15,7 +15,7 @@
 
         public override void DoVoice()
         {
-            Console.WriteLine($"{_typeAnimal}-{_nameAnimal}: Mu-Mu");
+            Console.WriteLine($"{_typeAnimal}-{NameAnimal}: Mu-Mu");
         }
 
     }

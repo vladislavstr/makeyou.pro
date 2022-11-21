@@ -2,18 +2,20 @@
 {
     public abstract class AbstractAnimals
     {
-        public const int _ageConst = 1;
+        private const int _ageConst = 1;
         private readonly string[] _biomArray = { "sea", "forest", "field" };
         private readonly string[] _typeFeedingArray = { "meat-eater", "herbivore" };
 
-        protected string _nameAnimal;
-        protected string _biomAnimal;
-        protected string _typeAnimal;
-        protected string _rationType;
-        protected int _age;
+        
+        public string _biomAnimal;
+        public string _typeAnimal;
+        public string _rationType;
+        private int _age;
         protected string _typeFeeding;
         protected bool _statusFullnessFeeding = false;
         protected int _sizeFullnessFeeding;
+
+        public string NameAnimal { get; set; }
 
         protected string typeFeeding
         {
@@ -85,30 +87,34 @@
         {
             if (_rationType != food)
             {
-                Console.WriteLine($"{_typeAnimal}-{_nameAnimal} do not want eats the {food}");
-                if(_statusFullnessFeeding == false)
-                {
-                    Console.WriteLine($"asks for food");
-                }
-                else
-                {
-                    Console.WriteLine($"satisfied");
-                }
+                Console.WriteLine($"{_typeAnimal}-{NameAnimal} do not want eats the {food}");
             }
             else
             {
-                Console.WriteLine($"{_typeAnimal}-{_nameAnimal} eats {food}");
+                Console.WriteLine($"{_typeAnimal}-{NameAnimal} eats {food}");
+            }
+
+            if (_statusFullnessFeeding == false)
+            {
+                Console.WriteLine($"asks for food");
+            }
+            else
+            {
+                Console.WriteLine($"satisfied");
             }
         }
 
         public void Writeinfo()
         {
-            Console.WriteLine($"{_typeAnimal}- {_nameAnimal} {Age} years old:");
+            Console.WriteLine($"{_typeAnimal}- {NameAnimal} {Age} years old:");
             Console.WriteLine($"boim is {Biom}");
             Console.WriteLine($"type feeding {typeFeeding}");
             Console.WriteLine($"ration is {_rationType} {_sizeFullnessFeeding} kg. on day.");
         }
 
-        public abstract void DoVoice();
+        public virtual void DoVoice()
+        {
+            Console.WriteLine($"{_typeAnimal}-{NameAnimal}: barks");
+        }
     }
 }
