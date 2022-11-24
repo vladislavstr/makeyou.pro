@@ -1,14 +1,17 @@
 ﻿<Properties StartupConfiguration="{86CB1901-D525-4A4D-B131-990110CDDE5F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Animals.Test FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Aviary.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Animals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NaNAnimal.cs">
     <Files>
-      <File FileName="AbstractAnimals.cs" Line="9" Column="30" />
-      <File FileName="DogAnimal.cs" Line="14" Column="14" />
-      <File FileName="Aviary.cs" Line="127" Column="72" />
-      <File FileName="Program.cs" Line="6" Column="24" />
+      <File FileName="AbstractAnimals.cs" Line="11" Column="29" />
+      <File FileName="DogAnimal.cs" />
+      <File FileName="Aviary.cs" Line="87" Column="11" />
+      <File FileName="Program.cs" />
       <File FileName="NaNAnimal.cs" Line="13" Column="2" />
     </Files>
     <Pads>
@@ -21,8 +24,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Animals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Animals.Test FirstBuild="True" />
 </Properties>

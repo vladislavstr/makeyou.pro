@@ -34,6 +34,7 @@ namespace Animals
         DateTime dateTime = new DateTime();
 
         private string NameAviary { get; set; }
+        //public Aviary[] NewAviary { get; set; }
         public object[] NewAviary { get; set; }
 
         private string BiomAviary
@@ -111,7 +112,8 @@ namespace Animals
             SizeAviary = size;
             dateTime = DateTime.Now.Date;
 
-            NewAviary = new object[SizeAviary];
+            Aviary[] NewAviary = new Aviary[SizeAviary];
+            //NewAviary = new object[SizeAviary];
             Array.Fill<object>(NewAviary, new NaNAnimal());// заполним созданный массив 0-ми 
         }
         
@@ -129,7 +131,7 @@ namespace Animals
             for(int i = 0; i < NewAviary.Length; i++)
             {
                 
-                if (NewAviary[i])
+                if (NameAviary[i].)
 
                 if (BiomAviary == addAnimal._biomAnimal)
                 {
