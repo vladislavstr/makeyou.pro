@@ -9,10 +9,10 @@
 
   <ItemGroup>
     <None Remove="Animals\" />
-    <None Remove="Animals\Options\" />
+    <None Remove="Options\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Animals\" />
-    <Folder Include="Animals\Options\" />
+    <Folder Include="Options\" />
   </ItemGroup>
 </Project>

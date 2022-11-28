@@ -6,7 +6,7 @@ namespace Animals
 		public NaNAnimal()
 		{
             NameAnimal = "###";
-            _typeAnimal = "###";
+            TypeAnimal = "###";
             statusObj = 47;
         }
 	}

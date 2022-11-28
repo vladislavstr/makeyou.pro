@@ -1,21 +1,23 @@
-﻿namespace Animals
+﻿using Animals.Options;
+
+namespace Animals
 {
     public class CowAnimal : AbstractAnimals
     {
-        public CowAnimal(string name, int age, string biom, string typeFeed)
+        public CowAnimal(string name, int age, string typeFeed)
         {
             NameAnimal = name;
-            _typeAnimal = "Cow";
+            TypeAnimal = "Cow";
             Age = age;
-            Biom = biom;
-            typeFeeding = typeFeed;
+            Biom = BiomeType.Desert;
+            Feeding = FeedingType.Herbivore;
             _rationType = "seed";
-            _sizeFullnessFeeding = 6;
+            SizeAnimalFullnessFeeding = 6;
         }
 
         public override void DoVoice()
         {
-            Console.WriteLine($"{_typeAnimal}-{NameAnimal}: Mu-Mu");
+            Console.WriteLine($"{TypeAnimal}-{NameAnimal}: Mu-Mu");
         }
 
     }

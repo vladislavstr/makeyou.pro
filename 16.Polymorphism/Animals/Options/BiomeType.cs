@@ -1,10 +1,11 @@
-﻿namespace Animals.Animals.Options
+﻿namespace Animals.Options
 {
     public enum BiomeType
     {
         Jungle,
         Forest,
-        Desert
+        Desert,
+        Field
     }
 }
 

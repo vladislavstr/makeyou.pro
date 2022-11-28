@@ -1,21 +1,23 @@
-﻿namespace Animals
+﻿using Animals.Options;
+
+namespace Animals
 {
     public class GoatAnimal: AbstractAnimals
     {
-        public GoatAnimal(string name, int age, string biom, string typeFeed)
+        public GoatAnimal(string name, int age, string typeFeed)
         {
             NameAnimal = name;
-            _typeAnimal = "Goat";
+            TypeAnimal = "Goat";
             Age = age;
-            Biom = biom;
-            typeFeeding = typeFeed;
+            Biom = BiomeType.Desert;
+            Feeding = FeedingType.Herbivore;
             _rationType = "seed";
-            _sizeFullnessFeeding = 2;
+            SizeAnimalFullnessFeeding = 2;
         }
 
         public override void DoVoice()
         {
-            Console.WriteLine($"{_typeAnimal}-{NameAnimal}: MeeeE");
+            Console.WriteLine($"{TypeAnimal}-{NameAnimal}: MeeeE");
         }
     }
 }
