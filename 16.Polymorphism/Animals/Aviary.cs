@@ -19,70 +19,26 @@
 //        -Травоядные могут жить с любыми травоядными
 
 using System.Drawing;
+using Animals.Options;
 
 namespace Animals
 {
 	public class Aviary
 	{
         private const int _sizeAviaryConst = 1;
-        private readonly string[] _biomAviaryArray = { "sea", "forest", "field" };
-        private readonly string[] _typeFeedingAviaryArray = { "meat-eater", "herbivore" }; // чтобы не забыть. не понял как перетянуть модификатор readonli из класса abstractAnimals без насдедования.
 
         private int _sizeAviary;
         private string _biomAviary;
         private string _typeFeedingAviary;
         DateTime dateTime = new DateTime();
 
-        private string NameAviary { get; set; }
-        //public Aviary[] NewAviary { get; set; }
-        public object[] NewAviary { get; set; }
+        public string NameAviary { get; private set; }
+        public BiomeType AviaryBiom { get; private set; }
+        public FeedingType AviaryFeeding { get; private set; }
 
-        private string BiomAviary
-        {
-            get
-            {
-                return _biomAviary;
-            }
-            set
-            {
-                
-                for (int i = 0; i < _biomAviaryArray.Length; i++)
-                {
-                    if (value == _biomAviaryArray[i])
-                    {
-                        _biomAviary = value;
-                        break;
-                    }
-                    else
-                    {
-                        _biomAviary = "NaN";
-                    }
-                }
-            }
-        }
+        public AbstractAnimals[] animals { get; private set; }
 
-        private string FeedingAviary 
-        {
-            get
-            {
-                return _typeFeedingAviary;
-            }
-            set
-            {
-                for (int i = 0; i < _typeFeedingAviaryArray.Length; i++)
-                {
-                    if (value == _typeFeedingAviaryArray[i])
-                    {
-                        _typeFeedingAviary = value;
-                        break;
-                    }
-                    else
-                    {
-                        _typeFeedingAviary = "NaN";
-                    }
-                }
-            }
-        }
+        
 
         private int SizeAviary
         {
@@ -104,24 +60,22 @@ namespace Animals
             }
         }
 
-        public Aviary(string name, string biom, string typeFeeding, int size)
+        public Aviary(string name, BiomeType biom, FeedingType feeding, int size)
 		{
             NameAviary = name;
-            BiomAviary = biom;
-            FeedingAviary = typeFeeding;
+            AviaryBiom = biom;
+            AviaryFeeding = feeding;
             SizeAviary = size;
             dateTime = DateTime.Now.Date;
 
-            Aviary[] NewAviary = new Aviary[SizeAviary];
-            //NewAviary = new object[SizeAviary];
-            Array.Fill<object>(NewAviary, new NaNAnimal());// заполним созданный массив 0-ми 
+            NewAviary = new object[SizeAviary];
         }
         
         public void WriteInfoAviary()
         {
             Console.WriteLine($"{NameAviary}:");
-            Console.WriteLine($"boim is - {BiomAviary}");
-            Console.WriteLine($"type feeding - {FeedingAviary}");
+            Console.WriteLine($"boim is - {AviaryBiom}");
+            Console.WriteLine($"type feeding - {AviaryFeeding}");
             Console.WriteLine($"ration in this aviary - {SizeAviary}");
             Console.WriteLine($"date created - {dateTime}");
         }
@@ -133,7 +87,7 @@ namespace Animals
                 
                 if (NameAviary[i].)
 
-                if (BiomAviary == addAnimal._biomAnimal)
+                if (AviaryBiom == addAnimal._biomAnimal)
                 {
                     NewAviary[i] = addAnimal;
 
@@ -145,7 +99,7 @@ namespace Animals
                 {
                     Console.BackgroundColor = ConsoleColor.Red;
                     Console.WriteLine($"The animal {addAnimal.NameAnimal} can not living in {NameAviary} aviary");
-                    Console.WriteLine($"The animal Biom {addAnimal._biomAnimal} != Biom aviary {BiomAviary} ");
+                    Console.WriteLine($"The animal Biom {addAnimal._biomAnimal} != Biom aviary {AviaryBiom} ");
                     Console.ResetColor();
                 }
             }

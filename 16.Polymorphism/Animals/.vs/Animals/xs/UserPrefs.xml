@@ -1,31 +1,24 @@
 ﻿<Properties StartupConfiguration="{86CB1901-D525-4A4D-B131-990110CDDE5F}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Animals.Test FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Animals PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Animals/AbstractAnimals.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aviary.cs">
     <Files>
-      <File FileName="Options/BiomeType.cs" Line="8" Column="10" />
-      <File FileName="Options/FeedingType.cs" Line="9" Column="2" />
-      <File FileName="Animals/AbstractAnimals.cs" Line="60" Column="10" />
-      <File FileName="Animals/CowAnimal.cs" Line="15" Column="38" />
-      <File FileName="Animals/DogAnimal.cs" Line="15" Column="38" />
-      <File FileName="Animals/GoatAnimal.cs" Line="15" Column="38" />
-      <File FileName="Aviary.cs" Line="28" Column="30" />
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Options/BiomeType.cs" Line="3" Column="26" />
+      <File FileName="Options/FeedingType.cs" />
+      <File FileName="Animals/AbstractAnimals.cs" Line="19" Column="54" />
+      <File FileName="Animals/CowAnimal.cs" />
+      <File FileName="Animals/DogAnimal.cs" />
+      <File FileName="Animals/GoatAnimal.cs" />
+      <File FileName="Aviary.cs" Line="37" Column="63" />
+      <File FileName="Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Animals" expanded="True">
             <Node name="Animals" expanded="True">
-              <Node name="Animals" expanded="True">
-                <Node name="GoatAnimal.cs" selected="True" />
-              </Node>
+              <Node name="Animals" expanded="True" />
               <Node name="Options" expanded="True" />
             </Node>
           </Node>
@@ -33,4 +26,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Animals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Animals.Test FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
