@@ -4,42 +4,62 @@ namespace BookingSystem
     public class Administrator
     {
         private Book _book;
-        private Table _table;
-        private Order _order;
+        //private Table _table;
+        //private Order _order;
 
         public Administrator()
         {
             _book = new Book();
-            _book.SaveTablesList();
-            _book.SaveRequestsForReservation();
+            _book.LoadAll();
+            //_book.SaveTablesList();
+            //_book.SaveRequestsForReservation();
+            //_book.SaveRequestsForReservation();
         }
 
         public void AddTable(Table table)
         {
-            _book.TablesDict.Add(_table.TableNumber, _table);
+            _book.TablesDict.Add(table.TableNumber, table);
+            _book.SaveTablesList();
+        }
+
+        public void RemoveTable(int number)
+        {
+            _book.TablesDict.Remove(number);
             _book.SaveTablesList();
         }
 
         public void AddOrder(Order order)
         {
-            _book.OrdersDict.Add(_order.Id, _order);
+            _book.OrdersDict.Add(order.OrderNumber, order);
             _book.SaveRequestsForReservation();
         }
 
-        public List<Order> GetOrdersByTableName(int Number)
+        public void RemoveOrder(int number)
         {
-            List<Order> orders = new List<Order>();
-
-            foreach (Order order in _book.Orders)
-            {
-                if (order.TableNumber == Num)
-                {
-                    orders.Add(order);
-                }
-            }
-
-            return orders;
+            _book.OrdersDict.Remove(number);
+            _book.SaveRequestsForReservation();
         }
+
+        public void AddBooking(Order order, Table table)
+        {
+            _book.BookDict.Add(order, table.TableNumber);
+            _book.Sa
+            //_book.BookDict.Add(new Tuple<int, int>(table.TableNumber, order.OrderNumber),new List<string>(order.CustomerName,order.CustomerTelephoneNmber);
+        }
+        //public List<Order> GetOrdersByTableName(int Number)
+        //{
+        //    List<Order> orders = new List<Order>();
+
+        //    foreach (Order order in _book.Orders)
+        //    {
+        //        if (order.TableNumber == Num)
+        //        {
+        //            orders.Add(order);
+        //        }
+        //    }
+
+        //    return orders;
+        //}
     }
 }
 

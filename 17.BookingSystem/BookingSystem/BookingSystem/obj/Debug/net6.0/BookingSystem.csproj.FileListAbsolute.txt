@@ -1,0 +1,15 @@
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\bin\Debug\net6.0\BookingSystem.exe
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\bin\Debug\net6.0\BookingSystem.deps.json
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\bin\Debug\net6.0\BookingSystem.runtimeconfig.json
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\bin\Debug\net6.0\BookingSystem.dll
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\bin\Debug\net6.0\BookingSystem.pdb
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\obj\Debug\net6.0\BookingSystem.csproj.AssemblyReference.cache
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\obj\Debug\net6.0\BookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\obj\Debug\net6.0\BookingSystem.AssemblyInfoInputs.cache
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\obj\Debug\net6.0\BookingSystem.AssemblyInfo.cs
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\obj\Debug\net6.0\BookingSystem.csproj.CoreCompileInputs.cache
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\obj\Debug\net6.0\BookingSystem.dll
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\obj\Debug\net6.0\refint\BookingSystem.dll
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\obj\Debug\net6.0\BookingSystem.pdb
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\obj\Debug\net6.0\BookingSystem.genruntimeconfig.cache
+D:\git\makeyou.pro\17.BookingSystem\BookingSystem\BookingSystem\obj\Debug\net6.0\ref\BookingSystem.dll

@@ -3,10 +3,10 @@ namespace BookingSystem
 {
     public class Table
     {
-        public byte TableNumber { get; set; }
+        public int TableNumber { get; set; }
         public int TableSize { get; private set; }
 
-        public Table(byte number, int sise)
+        public Table(int number, int sise)
         {
             TableNumber = number;
             TableSize = sise;
@@ -21,5 +21,3 @@ namespace BookingSystem
         }
     }
 }
-
-//

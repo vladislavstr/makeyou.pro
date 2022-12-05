@@ -3,15 +3,17 @@ namespace BookingSystem
 {
     public class Order
     {
-        public int Id { get; set; }
+        public int OrderNumber { get; set; }
         public string CustomerName { get; set; }
+        public string CustomerTelephoneNmber { get; set; }
         public int AmounteOfPersone { get; set; }
         public DateTime Date { get; set; }
 
-        public Order(int id, string customer, int amount, DateTime date)
+        public Order(int id, string customer, string number, int amount, DateTime date)
         {
-            Id = id;
+            OrderNumber = id;
             CustomerName = customer;
+            CustomerTelephoneNmber= number;
             AmounteOfPersone = amount;
             Date = date;
         }
@@ -19,11 +21,10 @@ namespace BookingSystem
         public override bool Equals(object? obj)
         {
             return obj is Order order &&
-                   Id == order.Id &&
+                   OrderNumber == order.OrderNumber &&
                    CustomerName == order.CustomerName &&
                    AmounteOfPersone == order.AmounteOfPersone &&
                    Date == order.Date;
         }
     }
 }
-
