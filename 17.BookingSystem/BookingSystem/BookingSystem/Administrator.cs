@@ -42,9 +42,15 @@ namespace BookingSystem
 
         public void AddBooking(Order order, Table table)
         {
-            _book.BookDict.Add(order, table.TableNumber);
-            _book.Sa
-            //_book.BookDict.Add(new Tuple<int, int>(table.TableNumber, order.OrderNumber),new List<string>(order.CustomerName,order.CustomerTelephoneNmber);
+            if (table.TableSize >= order.AmounteOfPersone)
+            {
+                _book.BookDict.Add(order, table.TableNumber);
+                _book.SaveBookDict();
+            }
+            else
+            {
+                Console.WriteLine($"Table size: {table.TableSize} < amounte of persone: {order.AmounteOfPersone}");
+            }
         }
         //public List<Order> GetOrdersByTableName(int Number)
         //{

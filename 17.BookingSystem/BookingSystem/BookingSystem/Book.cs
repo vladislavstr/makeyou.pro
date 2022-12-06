@@ -60,12 +60,12 @@ namespace BookingSystem
         {
             using (StreamWriter StreamWriterBookDict = new StreamWriter(PathBookDict))
             {
-                string JsonStatusOfReservation = JsonSerializer.Serialize(OrdersDict);
-                StreamWriterPathStatusOfReservation.WriteLine(JsonStatusOfReservation);
+                string JsonStatusOfReservation = JsonSerializer.Serialize(BookDict);
+                StreamWriterBookDict.WriteLine(JsonStatusOfReservation);
             }
+        }
 
-
-            public void LoadAll()
+        public void LoadAll()
         {
             if (File.Exists(PathTablesDict))
             {
@@ -93,6 +93,16 @@ namespace BookingSystem
                     OrdersDict = JsonSerializer.Deserialize<Dictionary<int, Order>>(JsonStatusOfReservation)!;
                 }
             }
+
+            if (File.Exists(PathBookDict))
+            {
+                using (StreamReader StreamWriterBookDict = new StreamReader(PathBookDict))
+                {
+                    string JsonStatusOfReservation = StreamWriterBookDict.ReadLine()!;
+                    BookDict = JsonSerializer.Deserialize<Dictionary<Order, int>>(JsonStatusOfReservation)!;
+                }
+            }
+
         }
     }
 }
